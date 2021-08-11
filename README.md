@@ -6,4 +6,4 @@ It uses the access to the /tmp/ folder
 
 See the docx file attached.
 
-Maybe they'll be a video on it soon.
+Short video at https://youtu.be/TMGQDmxMOp4
